@@ -1,7 +1,7 @@
 {
-  "name": "mern-auth",
+  "name": "CEL",
   "version": "1.0.0",
-  "description": "Mern Auth Example",
+  "description": "College project",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
